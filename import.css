@@ -1,4 +1,14 @@
 
 body{
 font-family:'ms pgothic',sans-serif!important;
+  font-size:16px;
+}
+
+a{
+  color:red;
+  font-weight:bold;
+}
+a:hover{
+ letter-spacing:1.5px;
+  color:black;
 }
